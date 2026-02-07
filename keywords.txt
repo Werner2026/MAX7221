@@ -1,12 +1,12 @@
 #######################################
-# Syntax Coloring Map For DigitLedDisplay
+# Syntax Coloring Map For MAX7221
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-MAX7SegmentDisplay	KEYWORD1
+MAX7221	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
@@ -21,6 +21,7 @@ printDigit	KEYWORD2
 write	KEYWORD2
 ReverseDirection	KEYWORD2
 setReverseDirection	KEYWORD2
+printDot KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
